@@ -10,5 +10,7 @@ En este curso vemos de todo:
 * Trucos muy locos del profesor
 * Las personalidades múltiples
 * Creado por Fernando Argueta
+* Es ejecutado en Linux
+* Disponible para todas las edades.
 
 Sobre todo este redame.md **es un chiste**. Diseñado para el ejemplo. [ver el curso](http://https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "A ver el curso")
